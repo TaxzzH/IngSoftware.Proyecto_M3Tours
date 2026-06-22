@@ -44,11 +44,11 @@ export const tours: Tour[] = [
     shortDescription:
       'Cataratas volcánicas de aguas turquesas en el corazón del Parque Nacional Vicente Pérez Rosales.',
     heroImage:
-      'https://images.unsplash.com/photo-1712921674876-83cda22594ec?w=1200&h=800&fit=crop&auto=format&q=85',
+      'https://images.unsplash.com/photo-1548877696-abefdc512c1e?q=80&w=1548&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     gallery: [
-      'https://images.unsplash.com/photo-1712921674876-83cda22594ec?w=1200&h=800&fit=crop&auto=format&q=85',
+      'https://images.unsplash.com/photo-1548877696-abefdc512c1e?q=80&w=1548&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       'https://images.unsplash.com/photo-1758409571145-b1f545707b14?w=1200&h=800&fit=crop&auto=format&q=85',
-      'https://images.unsplash.com/photo-1759322437317-d89deaef8caa?w=1200&h=800&fit=crop&auto=format&q=85',
+      'https://images.unsplash.com/photo-1712921674876-83cda22594ec?w=1200&h=800&fit=crop&auto=format&q=85',
       'https://images.unsplash.com/photo-1578704399126-38975ba256d7?w=1200&h=800&fit=crop&auto=format&q=85',
     ],
     description:
@@ -150,12 +150,12 @@ export const tours: Tour[] = [
     shortDescription:
       'Relájate en las aguas termales geotérmicas del Parque Nacional Puyehue, rodeado de bosque nativo valdiviano.',
     heroImage:
-      'https://images.unsplash.com/photo-1759089572780-461b7202761b?w=1200&h=800&fit=crop&auto=format&q=85',
+      'https://puyehue.cl/wp-content/uploads/2023/11/image00008-scaled.jpeg',
     gallery: [
-      'https://images.unsplash.com/photo-1759089572780-461b7202761b?w=1200&h=800&fit=crop&auto=format&q=85',
-      'https://images.unsplash.com/photo-1705987835862-d6030f293a36?w=1200&h=800&fit=crop&auto=format&q=85',
-      'https://images.unsplash.com/photo-1758409571024-20dcf43d52bf?w=1200&h=800&fit=crop&auto=format&q=85',
-      'https://images.unsplash.com/photo-1759322437317-d89deaef8caa?w=1200&h=800&fit=crop&auto=format&q=85',
+      'https://puyehue.cl/wp-content/uploads/2023/11/image00008-scaled.jpeg',
+      'https://www.rutenica.cl/cdn/shop/products/CONTENIDOAGUASCALIENTES-095.jpg?v=1656210715',
+      'https://termas-chile.com/wp-content/uploads/2023/06/termas-de-puyehue.jpg',
+      'https://www.atrapalo.cl/hoteles/picture/l/1327/4/4/391020057.jpg',
     ],
     description:
       'Las Termas de Puyehue son reconocidas internacionalmente por sus aguas minerales de origen volcánico con propiedades terapéuticas únicas. Ubicadas dentro del Parque Nacional Puyehue, a orillas del lago del mismo nombre, ofrecen un entorno natural privilegiado donde la selva valdiviana se une con las aguas humeantes. Un día de completa desconexión y bienestar en la naturaleza patagónica.',
@@ -202,12 +202,12 @@ export const tours: Tour[] = [
     shortDescription:
       'Sumérgete en la magia de Chiloé: palafitos, iglesias UNESCO, mitología chilota y gastronomía única.',
     heroImage:
-      'https://images.unsplash.com/photo-1490782300182-697b80ad4293?w=1200&h=800&fit=crop&auto=format&q=85',
+      'https://images.unsplash.com/photo-1780903244920-0d808b6a509d?w=1200&h=800&fit=crop&auto=format&q=85',
     gallery: [
-      'https://images.unsplash.com/photo-1490782300182-697b80ad4293?w=1200&h=800&fit=crop&auto=format&q=85',
-      'https://images.unsplash.com/photo-1617173205830-95d15d469996?w=1200&h=800&fit=crop&auto=format&q=85',
-      'https://images.unsplash.com/photo-1758409571024-20dcf43d52bf?w=1200&h=800&fit=crop&auto=format&q=85',
-      'https://images.unsplash.com/photo-1759322437317-d89deaef8caa?w=1200&h=800&fit=crop&auto=format&q=85',
+      'https://images.unsplash.com/photo-1780903244920-0d808b6a509d?w=1200&h=800&fit=crop&auto=format&q=85',
+      'https://images.unsplash.com/photo-1660537213561-ad24567aa679?w=1200&h=800&fit=crop&auto=format&q=85',
+      'https://images.unsplash.com/photo-1770465502516-bf06a8c36315?w=1200&h=800&fit=crop&auto=format&q=85',
+      'https://images.unsplash.com/photo-1688151027303-ff4e8f5e24fc?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     ],
     description:
       'Chiloé es un mundo aparte dentro de Chile. Sus iglesias de madera declaradas Patrimonio de la Humanidad por la UNESCO, sus coloridos palafitos sobre el mar, su rica mitología (el Trauco, la Pincoya, el Caleuche) y su incomparable gastronomía basada en el curanto hacen de la isla un destino que marca para siempre. Un viaje al alma más profunda y auténtica de Chile.',
