@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 import org.springframework.web.reactive.resource.NoResourceFoundException;
 
-import com.M3Tours.usuarios.DTO.ErrorResponse;
+import com.M3Tours.detallepago.DTO.ErrorResponse;
 
 import jakarta.servlet.http.HttpServletRequest;
 
